@@ -1,0 +1,1 @@
+The Weather App is a responsive web application that provides real-time weather information based on user input or geolocation. It fetches current weather data, forecasts, and relevant weather metrics from a third-party API, offering a user-friendly and visually engaging interface.
